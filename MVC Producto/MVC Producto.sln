@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Producto", "MVC Product
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Client", "MVC Client\MVC Client.csproj", "{080C6DC9-291A-4451-AC6A-08ABCCEBA39F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC Venta", "MVC Venta\MVC Venta.csproj", "{BF0CD2F7-DB3F-422F-99AC-89AF5EE8DABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API Producto", "API Producto\API Producto.csproj", "{F86A47CE-5C0E-4A33-B3DB-F6E61BE71D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{080C6DC9-291A-4451-AC6A-08ABCCEBA39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{080C6DC9-291A-4451-AC6A-08ABCCEBA39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{080C6DC9-291A-4451-AC6A-08ABCCEBA39F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF0CD2F7-DB3F-422F-99AC-89AF5EE8DABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0CD2F7-DB3F-422F-99AC-89AF5EE8DABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0CD2F7-DB3F-422F-99AC-89AF5EE8DABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0CD2F7-DB3F-422F-99AC-89AF5EE8DABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F86A47CE-5C0E-4A33-B3DB-F6E61BE71D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F86A47CE-5C0E-4A33-B3DB-F6E61BE71D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F86A47CE-5C0E-4A33-B3DB-F6E61BE71D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F86A47CE-5C0E-4A33-B3DB-F6E61BE71D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
