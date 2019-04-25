@@ -15,5 +15,7 @@ namespace MVC_Producto.Models
         }
 
         public System.Data.Entity.DbSet<MVC_Producto.Models.Producto> Productoes { get; set; }
+
+        
     }
 }
